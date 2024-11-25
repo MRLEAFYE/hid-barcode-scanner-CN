@@ -1,12 +1,12 @@
-##汉化说明
+## 汉化说明
 
-软件的中文汉化版本，由于我完全不会安卓开发，所以汉化实际上是靠mtool替换values-zh-rCN的string值完成的。
-汉化原版为1.9.1版本，原版链接：https://github.com/Fabi019/hid-barcode-scanner/releases/tag/v1.9.1。
-如果报毒，可以试试自己签个名，或者把原作者的版本加上我的汉化版，然后自己签名，这样就不会报毒了。
-如果有没汉化的地方，请告诉我，我会尽快补上，有些地方我看不明白，所以使用了机翻，如有问题，恳请大家批评指正。
+软件的中文汉化版本，由于我完全不会安卓开发，所以汉化实际上是靠mtool替换values-zh-rCN的string值完成的。 <br/>
+汉化原版为1.9.1版本，原版链接：https://github.com/Fabi019/hid-barcode-scanner/releases/tag/v1.9.1。 <br/>
+如果报毒，可以试试自己签个名，或者把原作者的版本加上我的汉化文件，然后自己签名，这样就不会报毒了。 <br/>
+如果有没汉化的地方，请告诉我，我会尽快补上，有些地方我看不明白，所以使用了机翻，如有问题，恳请大家批评指正。 <br/>
 
 
-下面是原作者的README：
+下面是原作者的README： <br/>
 
 <div align="center">
   <a href="https://github.com/Fabi019/hid-barcode-scanner/actions/workflows/android.yml"><img src="https://github.com/Fabi019/hid-barcode-scanner/actions/workflows/android.yml/badge.svg" /></a>
